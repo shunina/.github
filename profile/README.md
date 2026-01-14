@@ -2,8 +2,6 @@
 
 I'm **Shun Inagaki**, a Full-Stack Developer based in **London, UK**. Building scalable systems that bridge technology and business problems.
 
-Currently working on **Treasury Management Systems** at SCSK Europe, with a background in high-traffic web platforms and database engineering.
-
 ---
 
 ### What I Do
