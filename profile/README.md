@@ -6,9 +6,9 @@ I'm **Shun Inagaki**, a Full-Stack Developer based in **London, UK**. Building s
 
 ### What I Do
 
-- 🔨 Build full-stack web applications (Laravel, Next.js, .NET)
-- ☁️ Design cloud infrastructure on AWS
-- 📊 Optimize databases and queries (MySQL, Oracle)
+- 🔨 Build full-stack web applications (Next.js, React Router, .NET, Laravel)
+- ☁️ Design cloud infrastructure on AWS, Azure
+- 📊 Optimize databases and queries (MySQL, Oracle, Postgres)
 - 👥 Lead engineering teams and mentor developers
 - 🚀 Ship products that users love
 
